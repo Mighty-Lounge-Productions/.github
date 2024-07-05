@@ -19,5 +19,6 @@ Here you can find information about our latest works and learn more about ongoin
 ## Contact Us
 If you have any questions or would like to start a collaboration, please contact us:
 - Email: [mighty@acoapi.site](mailto:mighty@acoapi.site)
+- Owner: [nuliux@acoapi.site](mailto:nuliux@acoapi.site)
 
 We are always open to new ideas and projects!
