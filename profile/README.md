@@ -1,6 +1,6 @@
 # Mighty Lounge Productions
 
-Welcome to Mighty Lounge Productions - your trusted partner in the gaming development realm on Roblox!
+Welcome to Mighty Lounge Productions, created by @n_uliux
 
 ## About Us
 Mighty Lounge Productions is a studio dedicated to crafting unique gaming experiences on Roblox. We not only develop our own games but also offer a wide array of support and development services for our clients' projects.
